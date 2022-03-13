@@ -13,14 +13,13 @@ V tuto chvíli jsou zde následující číselníky:
     - Typy dodavatelů ICT
     - Tituly pro zpracování osobních údajů 
 - Číselníky definované mezinárodními výměnnými číselníky používané v informačních systémech
-
-Typy identifikátorů subjektů
     - Pohlaví
 - Provozní číselníky pro eGovernment a informační systémy
     - Kategorie činností
     - Stavy aplikační podpory
     - Stavy projednání
     - Strategické-záměry-IS
+    - Typy identifikátorů subjektů
 - Číselníky z Mapy EG povinností
     - Skupiny EG povinností
     - Subjekty-povinností
