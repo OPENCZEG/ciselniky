@@ -1,0 +1,106 @@
+Referrer,Kód,Popis,Typ,Číselník,￼ zdroj,￼ status
+Titul-OU/1,1,nezpracovávají se osobní údaje,Titul-OU,Tituly pro zpracování osobních údajů,Vyhláška 329/2000,Adopted
+Stav/1,1,Rozpracované,Stav,Stavy projednání,,
+Stav-AP/1,1,Existuje a je vyhovující,Stav-AP,Stavy aplikační podpory,,Verified
+Typ-dodavatele/1,1,dodavatel aplikačního programového vybavení,Typ-dodavatele,Typy dodavatelů ICT,Vyhláška 329/2000,Adopted
+Finanční-parametr/1,1,"náklady nákupního procesu (předběžné analýzy, tvorba zadání, výběr řešení a dodavatele)",Finanční-parametr,Kategorie financování IS,Vyhláška 329/2000,Adopted
+Fáze-IS/1,1,strategie,Fáze-IS,Fáze etapy životního cyklu IS,Vyhláška 329/2000,Adopted
+Záměr/1,1,Provozovat / rozvíjet,Záměr,Strategické-záměry-IS,,
+Finanční-parametr/10,10,náklady na předplatné ICT služby včetně všech odpovídajících přímých interních nákladů,Finanční-parametr,Kategorie financování IS,Vyhláška 329/2000,Adopted
+Finanční-parametr/11,11,"ostatní náklady, které nelze přiřadit k fázi životního cyklu ISVS",Finanční-parametr,Kategorie financování IS,Vyhláška 329/2000,Adopted
+Stav-AP/2,2,"Existuje, ale není vyhovující",Stav-AP,Stavy aplikační podpory,,Verified
+Finanční-parametr/2,2,nákup programového vybavení a technického vybavení pro projekt,Finanční-parametr,Kategorie financování IS,Vyhláška 329/2000,Adopted
+Titul-OU/2,2,na základě souhlasu subjektu údajů,Titul-OU,Tituly pro zpracování osobních údajů,Vyhláška 329/2000,Adopted
+Stav/2,2,V připomínkovém řízení,Stav,Stavy projednání,,
+Typ-dodavatele/2,2,dodavatel základního programového vybavení,Typ-dodavatele,Typy dodavatelů ICT,Vyhláška 329/2000,Adopted
+Záměr/2,2,Ukončit provoz,Záměr,Strategické-záměry-IS,,
+Fáze-IS/2,2,plánování a příprava,Fáze-IS,Fáze etapy životního cyklu IS,Vyhláška 329/2000,Adopted
+Stav-AP/3,3,Bude se implementovat,Stav-AP,Stavy aplikační podpory,,Verified
+Stav/3,3,Připomínkové řízení skončeno,Stav,Stavy projednání,,
+Typ-dodavatele/3,3,dodavatel aplikační služby,Typ-dodavatele,Typy dodavatelů ICT,Vyhláška 329/2000,Adopted
+Finanční-parametr/3,3,"analýza, vývoj, implementace a zkušební provoz",Finanční-parametr,Kategorie financování IS,Vyhláška 329/2000,Adopted
+Titul-OU/3,3,nezbytné pro splnění smlouvy,Titul-OU,Tituly pro zpracování osobních údajů,Vyhláška 329/2000,Adopted
+Fáze-IS/3,3,realizace,Fáze-IS,Fáze etapy životního cyklu IS,Vyhláška 329/2000,Adopted
+Záměr/3,3,Provést podstatnou změnu,Záměr,Strategické-záměry-IS,,
+Stav-AP/4,4,"Neexistuje, ale je požadována",Stav-AP,Stavy aplikační podpory,,Verified
+Typ-dodavatele/4,4,dodavatel technického vybavení,Typ-dodavatele,Typy dodavatelů ICT,Vyhláška 329/2000,Adopted
+Titul-OU/4,4,nezbytné pro splnění právní povinnosti,Titul-OU,Tituly pro zpracování osobních údajů,Vyhláška 329/2000,Adopted
+Finanční-parametr/4,4,produkční provoz a podpora řešení programového vybavení a technického vybavení,Finanční-parametr,Kategorie financování IS,Vyhláška 329/2000,Adopted
+Fáze-IS/4,4,produkční provoz,Fáze-IS,Fáze etapy životního cyklu IS,Vyhláška 329/2000,Adopted
+Finanční-parametr/5,5,údržba a průběžné úpravy programového vybavení a technického vybavení,Finanční-parametr,Kategorie financování IS,Vyhláška 329/2000,Adopted
+Titul-OU/5,5,nezbytné pro ochranu životně důležitých zájmů subjektu údajů,Titul-OU,Tituly pro zpracování osobních údajů,Vyhláška 329/2000,Adopted
+Stav-AP/5,5,Neexistuje a není požadována,Stav-AP,Stavy aplikační podpory,,Verified
+Typ-dodavatele/5,5,dodavatel systémové integrace,Typ-dodavatele,Typy dodavatelů ICT,Vyhláška 329/2000,Adopted
+Fáze-IS/5,5,vyhodnocení,Fáze-IS,Fáze etapy životního cyklu IS,Vyhláška 329/2000,Adopted
+Titul-OU/6,6,nezbytné pro splnění úkolu prováděného ve veřejném zájmu nebo při výkonu veřejné moci,Titul-OU,Tituly pro zpracování osobních údajů,Vyhláška 329/2000,Adopted
+Finanční-parametr/6,6,projekty postupné inovace a zlepšování,Finanční-parametr,Kategorie financování IS,Vyhláška 329/2000,Adopted
+Typ-dodavatele/6,6,Dodavatel platformy,Typ-dodavatele,Typy dodavatelů ICT,Vyhláška 329/2000,Adopted
+Fáze-IS/6,6,ukončení poskytování služby,Fáze-IS,Fáze etapy životního cyklu IS,Vyhláška 329/2000,Adopted
+Stav/7,7,Připraveno k projednání,Stav,Stavy projednání,,
+Titul-OU/7,7,nezbytné pro účely oprávněných zájmů příslušného správce,Titul-OU,Tituly pro zpracování osobních údajů,Vyhláška 329/2000,Adopted
+Finanční-parametr/7,7,projekty upgrade,Finanční-parametr,Kategorie financování IS,Vyhláška 329/2000,Adopted
+Typ-dodavatele/7,7,dodavatel provozní podpory,Typ-dodavatele,Typy dodavatelů ICT,Vyhláška 329/2000,Adopted
+Stav/8,8,Zařazeno na jednání,Stav,Stavy projednání,,
+Finanční-parametr/8,8,zvýšené náklady užívání řešení,Finanční-parametr,Kategorie financování IS,Vyhláška 329/2000,Adopted
+Finanční-parametr/9,9,konzervace a ukončení řešení,Finanční-parametr,Kategorie financování IS,Vyhláška 329/2000,Adopted
+Stav/9,9,Projednáno,Stav,Stavy projednání,,
+Stav/A,A,Upraveno po jednání,Stav,Stavy projednání,,
+Pohlaví/F,F,Žena,Pohlaví,Pohlaví,Mezinárodní číselník,Adopted
+Typ-identifikátoru/FO-AIFO,FO-AIFO,Agendový identifikátor fyzické osoby,Typ-identifikátoru,Typy identifikátorů subjektů,,Verified
+Typ-identifikátoru/FO-BSI,FO-BSI,Pseudonym od NIA,Typ-identifikátoru,Typy identifikátorů subjektů,,Verified
+Typ-identifikátoru/FO-KI,FO-KI,Klientský identifikátor,Typ-identifikátoru,Typy identifikátorů subjektů,,Verified
+Typ-identifikátoru/FO-SI,FO-SI,Stykový identifikátor,Typ-identifikátoru,Typy identifikátorů subjektů,,Verified
+Typ-identifikátoru/FO-vlastni,FO-vlastni,Vlastní identifikátor fyzické osoby,Typ-identifikátoru,Typy identifikátorů subjektů,,Verified
+Typ-identifikátoru/FO-vlastni-JR,FO-vlastni-JR,Vlastní identifikátor pro účely spisové služby,Typ-identifikátoru,Typy identifikátorů subjektů,,Verified
+Pohlaví/M,M,Muž,Pohlaví,Pohlaví,Mezinárodní číselník,Adopted
+Pohlaví/N,N,Neutrální,Pohlaví,Pohlaví,Mezinárodní číselník,Adopted
+Stav/N,N,Neschváleno,Stav,Stavy projednání,,
+Pohlaví/O,O,Jiné,Pohlaví,Pohlaví,Mezinárodní číselník,Adopted
+Kategorie-činnosti/PČ,PČ,Provozní činnost,Kategorie-činnosti,Kategorie činností,,Verified
+Typ-identifikátoru/PO-IČ,PO-IČ,Identifikační číslo právnické osoby,Typ-identifikátoru,Typy identifikátorů subjektů,,Verified
+Typ-identifikátoru/PO-jiny,PO-jiny,Jiný identifikátor právnické osoby,Typ-identifikátoru,Typy identifikátorů subjektů,,Verified
+Stav/S,S,Schváleno,Stav,Stavy projednání,,
+Kategorie-činnosti/VČ,VČ,Veřejnoprávní činost,Kategorie-činnosti,Kategorie činností,,Verified
+Kategorie-činnosti/VS,VS,Výkon veřejné správy,Kategorie-činnosti,Kategorie činností,,Verified
+Stav/X,X,Stornováno,Stav,Stavy projednání,,
+Pohlaví/X,X,Neuvedeno,Pohlaví,Pohlaví,Mezinárodní číselník,Adopted
+Stav/Y,Y,Stornováno z projednávání,Stav,Stavy projednání,,
+Pohlaví/Z,Z,Neuznávané,Pohlaví,Pohlaví,Mezinárodní číselník,Adopted
+Stav/Z,Z,Zrušeno,Stav,Stavy projednání,,
+Stav-povinnosti/castecne,castecne,Plní částečně,Stav-povinnosti,Stavy plnění povinností,,Verified
+Skupina-subjektů/ds-drzitele-sourk,ds-drzitele-sourk,Držitelé soukromoprávní DS,Skupina-subjektů,Subjekty-povinností,,
+Skupina-subjektů/eid-drzitele,eid-drzitele,Držitelé EID,Skupina-subjektů,Subjekty-povinností,,
+Skupina-subjektů/eid-podepisujici,eid-podepisujici,Podepisující osoby,Skupina-subjektů,Subjekty-povinností,,
+Skupina-subjektů/eid-posuzovatele,eid-posuzovatele,Posuzovatelé prostředků EID,Skupina-subjektů,Subjekty-povinností,,
+Skupina-subjektů/eid-qaeid,eid-qaeid,Kvalifikovańí správci EID,Skupina-subjektů,Subjekty-povinností,,
+Skupina-subjektů/eid-qspeid,eid-qspeid,Kvalifikovaní poskytovatelé EID,Skupina-subjektů,Subjekty-povinností,,
+Skupina-subjektů/eid-qtsp,eid-qtsp,Kvalifikovaní poskytovatelé QTSP,Skupina-subjektů,Subjekty-povinností,,
+Skupina-subjektů/eid-sep,eid-sep,Subjekty vyžadující identifikaci a totožnost,Skupina-subjektů,Subjekty-povinností,,
+Skupina-subjektů/isds-sep,isds-sep,SEP využívající ISDS,Skupina-subjektů,Subjekty-povinností,,
+Skupina-subjektů/isvs-spravci,isvs-spravci,Správci informačních systémů,Skupina-subjektů,Subjekty-povinností,,
+Subjekt/kacr,kacr,Komora auditorů,Subjekt,Subjekty-povinností,,
+Skupina-subjektů/kmvs,kmvs,Kontaktní místa veřejné správy,Skupina-subjektů,Subjekty-povinností,,
+Subjekt/msp,msp,Ministerstvo spravedlnosti,Subjekt,Subjekty-povinností,,
+Subjekt/mv,mv,Ministerstvo vnitra,Subjekt,Subjekty-povinností,,
+Stav-povinnosti/neplni,neplni,Dosud neplní,Stav-povinnosti,Stavy plnění povinností,,Verified
+Stav-povinnosti/nerelevantni,nerelevantni,Není relevantní,Stav-povinnosti,Stavy plnění povinností,,Verified
+Skupina-subjektů/ovm,ovm,Orgány veřejné moci,Skupina-subjektů,Subjekty-povinností,,
+Skupina-subjektů/ovs,ovs,Orgány veřejné správy,Skupina-subjektů,Subjekty-povinností,,
+Skupina-subjektů/pds-poskytovatele,pds-poskytovatele,Poskytovatelé digitálních služeb,Skupina-subjektů,Subjekty-povinností,,
+Stav-povinnosti/plni,plni,Plní zcela,Stav-povinnosti,Stavy plnění povinností,,Verified
+Skupina-povinností/povinnosti-dokumenty-ssl,povinnosti-dokumenty-ssl,Povinnosti k ESSL a dokumentům,Skupina-povinností,Skupiny EG povinností,,
+Skupina-povinností/povinnosti-eidas,povinnosti-eidas,Povinnosti k EID a důvěryhodnosti,Skupina-povinností,Skupiny EG povinností,,
+Skupina-povinností/povinnosti-informace,povinnosti-informace,Povinnosti k informacím a publikaci,Skupina-povinností,Skupiny EG povinností,,
+Skupina-povinností/povinnosti-isvs,povinnosti-isvs,Povinnosti k ISVS,Skupina-povinností,Skupiny EG povinností,,
+Skupina-povinností/povinnosti-pristupnost,povinnosti-pristupnost,Povinnosti k přístupnosti,Skupina-povinností,Skupiny EG povinností,,
+Skupina-povinností/povinnosti-smlouvy,povinnosti-smlouvy,Povinnosti ke smlouvám,Skupina-povinností,Skupiny EG povinností,,
+Skupina-subjektů/ssl-verejnopravni-puvodci,ssl-verejnopravni-puvodci,Veřejnoprávní původci,Skupina-subjektů,Subjekty-povinností,,
+Skupina-subjektů/subjekty-soukr,subjekty-soukr,Soukromoprávní subjekty,Skupina-subjektů,Subjekty-povinností,,
+Skupina-subjektů/svs-poskytovatele,svs-poskytovatele,Poskytovatelé veřejnoprávních služeb,Skupina-subjektů,Subjekty-povinností,,
+Subjekt/szr,szr,Správa základních registrů,Subjekt,Subjekty-povinností,,
+Skupina-subjektů/verejne-invest-subjekty,verejne-invest-subjekty,Subjekty veřejného investování,Skupina-subjektů,Subjekty-povinností,,
+Skupina-subjektů/verejni-zadavatele,verejni-zadavatele,Veřejní zadavatelé,Skupina-subjektů,Subjekty-povinností,,
+Skupina-subjektů/veznice,veznice,Věznice,Skupina-subjektů,Subjekty-povinností,,
+Subjekt/vlada,vlada,Vláda,Subjekt,Subjekty-povinností,,
+Skupina-subjektů/wmaa-povinne,wmaa-povinne,Subjekty veřejného sektoru,Skupina-subjektů,Subjekty-povinností,,
+Skupina-subjektů/zinf-povinne,zinf-povinne,Povinné subjekty podle ZINF,Skupina-subjektů,Subjekty-povinností,,
