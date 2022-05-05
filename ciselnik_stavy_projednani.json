@@ -1,0 +1,22 @@
+{
+    "@context": "https://ofn.gov.cz/%C4%8D%C3%ADseln%C3%ADky/2022-02-08/sch%C3%A9mata/json-ld/%C4%8D%C3%ADseln%C3%ADk.json",
+    "$schema": "https://github.com/opendata-mvcr/otevrene-formalni-normy/raw/master/%C4%8D%C3%ADseln%C3%ADky/2022-02-08/sch%C3%A9mata/json-ld/%C4%8D%C3%ADseln%C3%ADk.json",
+    "typ": "Číselník",
+    "iri": "https://github.com/OPENCZEG/ciselniky/blob/main/ciselnik_stavy_projednani.json",
+    "id" : "číselník/Stavy projednání",
+    "type" : "číselník",
+  "název-číselníku" : {    "cs" : "Číselník stavů projednávání materiálu"
+  },  "položky" : [ 
+{ "type" : [ "Stav", "položka" ], "id" : "Stav/1", "kód" : "1", "popis" : { "cs" : "Rozpracované" } },
+{ "type" : [ "Stav", "položka" ], "id" : "Stav/2", "kód" : "2", "popis" : { "cs" : "V připomínkovém řízení" } },
+{ "type" : [ "Stav", "položka" ], "id" : "Stav/3", "kód" : "3", "popis" : { "cs" : "Připomínkové řízení skončeno" } },
+{ "type" : [ "Stav", "položka" ], "id" : "Stav/7", "kód" : "7", "popis" : { "cs" : "Připraveno k projednání" } },
+{ "type" : [ "Stav", "položka" ], "id" : "Stav/8", "kód" : "8", "popis" : { "cs" : "Zařazeno na jednání" } },
+{ "type" : [ "Stav", "položka" ], "id" : "Stav/9", "kód" : "9", "popis" : { "cs" : "Projednáno" } },
+{ "type" : [ "Stav", "položka" ], "id" : "Stav/A", "kód" : "A", "popis" : { "cs" : "Upraveno po jednání" } },
+{ "type" : [ "Stav", "položka" ], "id" : "Stav/N", "kód" : "N", "popis" : { "cs" : "Neschváleno" } },
+{ "type" : [ "Stav", "položka" ], "id" : "Stav/S", "kód" : "S", "popis" : { "cs" : "Schváleno" } },
+{ "type" : [ "Stav", "položka" ], "id" : "Stav/X", "kód" : "X", "popis" : { "cs" : "Stornováno" } },
+{ "type" : [ "Stav", "položka" ], "id" : "Stav/Y", "kód" : "Y", "popis" : { "cs" : "Stornováno z projednávání" } },
+{ "type" : [ "Stav", "položka" ], "id" : "Stav/Z", "kód" : "Z", "popis" : { "cs" : "Zrušeno" } }, ]
+}
